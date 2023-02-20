@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673440094 source:c:\users\asus\documents\my project\kelompok_mbappe\main.cpp
+	"labirin.h"
+
+1673437551 c:\users\asus\documents\my project\kelompok_mbappe\labirin.h
+	<iostream>
+	<utility>
+
+1673440095 source:c:\users\asus\documents\my project\kelompok_mbappe\labirin.cpp
+	"labirin.h"
+
